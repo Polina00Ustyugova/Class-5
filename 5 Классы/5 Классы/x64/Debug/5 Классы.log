@@ -1,0 +1,7 @@
+﻿  5 Классы.cpp
+D:\Коды\5 Классы\5 Классы\5 Классы.cpp(52,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Person.cpp
+  Student.cpp
+  Vector.cpp
+  Создание кода...
+  5 Классы.vcxproj -> D:\Коды\5 Классы\x64\Debug\5 Классы.exe
